@@ -2,7 +2,8 @@
 
 You can checkout the live version of the application at https://spring-ws-chat.herokuapp.com/
 
-![App Screenshot](screenshot.png)
+![24](https://user-images.githubusercontent.com/79871411/127785145-931c3226-d21a-4957-a172-9e3c4a105bb8.PNG)
+
 
 ## Requirements
 
